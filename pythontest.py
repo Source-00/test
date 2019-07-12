@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-def avg_circles(circles, b):
+def avg_circles(circles, c):
     avg_x=0
     avg_y=0
     avg_r=0
